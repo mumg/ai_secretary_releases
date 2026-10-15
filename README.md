@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/secretary-robot.svg" width="148" alt="Серкетарь — локальный AI-секретарь">
+  <img src="assets/secretary-icon.png" width="148" alt="AI Секретарь — локальный AI-секретарь">
 </p>
 
 <h1 align="center">Серкетарь</h1>
